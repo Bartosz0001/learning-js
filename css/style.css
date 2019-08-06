@@ -10,4 +10,4 @@ body { color: #fff; background-color: #ECEFF0; margin: 0; }
 
 .answers:hover { background-color: #222; cursor: pointer; }
 
-.results { width: 500px; margin: 30px auto; }
+#results { width: 500px; margin: 30px auto; padding: 20px; }
